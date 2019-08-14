@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package>
     <name>Cpcoder_Cms</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <stability>stable</stability>
     <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
     <channel>community</channel>
     <extends/>
     <summary>Magento module Advanced CMS Grid is to improve built-in CMS pages and static blocks grid system.</summary>
     <description>Magento module Advanced CMS Grid is to improve built-in CMS pages and static blocks grid system. Some useful features like, mass page layout changing, inline editing, mass edit/update/delete pages and static blocks are included. All options are handled by backend enable/disable function.</description>
-    <notes>Improved CMS page and static block's grid.</notes>
-    <authors><author><name>Milan Chandro</name><user>milanu13</user><email>milanu13@gmail.com</email></author></authors>
+    <notes>Bug fixing and improved CMS page/block's grid.</notes>
+    <authors><author><name>Milan Chandro</name><user>admin</user><email>milanu13@gmail.com</email></author></authors>
     <date>2015-07-31</date>
-    <time>15:35:39</time>
-    <contents><target name="magecommunity"><dir name="Cpcoder"><dir name="Cms"><dir name="Block"><dir name="Adminhtml"><dir name="Cms"><dir name="Block"><dir name="Grid"><dir name="Renderer"><file name="Action.php" hash="071783ee34959755b846a537b6d0907e"/></dir></dir><file name="Grid.php" hash="d683ef06801f8f9bbd983fe81fddb8c2"/></dir><dir name="Page"><dir name="Grid"><dir name="Renderer"><file name="Action.php" hash="927b83f5d08219c4ef3532c5f133a860"/></dir></dir><file name="Grid.php" hash="956f38e85e7dcba56e6b25ee9d44c2b5"/></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="b75a89c318e37b5ff151b1db24c76eaf"/></dir><dir name="controllers"><dir name="Adminhtml"><dir name="Cms"><file name="BlockController.php" hash="5d912d94a5227876e37cd6f89fa75d7b"/><file name="PageController.php" hash="9e8e7ef85abe2edd59b0ae2921bba52a"/></dir></dir></dir><dir name="etc"><file name="adminhtml.xml" hash="7388c50ba475231e1c7ecf925d58dbe0"/><file name="config.xml" hash="fd87b41b31df55d92ff96ca0d41af270"/><file name="system.xml" hash="9d835443916df742ecfa340115b830a3"/></dir></dir></dir></target><target name="mageetc"><dir name="."><file name="Cpcoder_Cms.xml" hash=""/></dir></target></contents>
+    <time>16:12:11</time>
+    <contents><target name="magecommunity"><dir name="Cpcoder"><dir name="Cms"><dir name="Block"><dir name="Adminhtml"><dir name="Cms"><dir name="Block"><dir name="Grid"><dir name="Renderer"><file name="Action.php" hash="071783ee34959755b846a537b6d0907e"/></dir></dir><file name="Grid.php" hash="d683ef06801f8f9bbd983fe81fddb8c2"/></dir><dir name="Page"><dir name="Grid"><dir name="Renderer"><file name="Action.php" hash="927b83f5d08219c4ef3532c5f133a860"/></dir></dir><file name="Grid.php" hash="956f38e85e7dcba56e6b25ee9d44c2b5"/></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="b75a89c318e37b5ff151b1db24c76eaf"/></dir><dir name="controllers"><dir name="Adminhtml"><dir name="Cms"><file name="BlockController.php" hash="5d912d94a5227876e37cd6f89fa75d7b"/><file name="PageController.php" hash="9e8e7ef85abe2edd59b0ae2921bba52a"/></dir></dir></dir><dir name="etc"><file name="adminhtml.xml" hash="7388c50ba475231e1c7ecf925d58dbe0"/><file name="config.xml" hash="fd87b41b31df55d92ff96ca0d41af270"/><file name="system.xml" hash="9d835443916df742ecfa340115b830a3"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Cpcoder_Cms.xml" hash="35a0c5ae5f892d21d1eecc54bf79e6a6"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.3.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
