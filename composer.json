@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Cpcoder_Cms",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Magento module Magento Advanced CMS Grid is to improve built-in CMS pages and static blocks grid system.",
+    "authors": [
+    {
+        "name": "Milan Chandro",
+        "email": "milanu13@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

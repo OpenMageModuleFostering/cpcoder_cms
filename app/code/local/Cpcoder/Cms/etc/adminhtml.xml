@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+	<config>
+		<acl>
+			<resources>
+				<admin>
+					<children>
+						<system>
+							<children>
+								<config>
+									<children>
+										<cpcoder_cms translate="title" module="cpcoder_cms">
+											<title>Advance CMS Grid Section</title>
+											<sort_order>0</sort_order>
+										</cpcoder_cms>
+									</children>
+								</config>
+							</children>
+						</system>
+					</children>
+				</admin>
+			</resources>
+		</acl>
+	</config>
