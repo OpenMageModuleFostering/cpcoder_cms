@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Cpcoder_Cms",
+    "name": "openmage-module-fostering\/cpcoder_cms",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Magento module Advanced CMS Grid is to improve built-in CMS pages and static blocks grid system.",
     "authors": [
